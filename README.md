@@ -1,0 +1,2 @@
+# nstr
+North Stronghold
