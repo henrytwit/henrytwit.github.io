@@ -196,8 +196,8 @@ canvas {
 }
 
 .countdown-content {
-	margin-top: 25px;
-	text-align: justify;
+	margin-top: 25px; 
+	text-align: center;
 }
 
 .countdown-content h1 {
@@ -205,7 +205,16 @@ canvas {
 	font-weight: 600;
 }
 
-.countdown-content h1 span {
+.countdown-content span {
+ 	color: #2fa9ff;
+}
+
+.countdown-text {
+	margin-top: 0px; /*25*/
+	text-align: justify;
+}
+
+.countdown-text span {
  	color: #2fa9ff;
 }
 
